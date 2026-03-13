@@ -28,7 +28,7 @@ Every report is read, triaged, and tracked. Swift resolution is a commitment, no
 
 For general conversation, design feedback, lore discussion, and dev updates — join the Vale of Ruin community on Discord.
 
-🎮 **[Join the Vale of Ruin Discord](https://discord.gg/32v5PvjC)** ← *invite link coming soon*
+🎮 **[Join the Vale of Ruin Discord](https://discord.gg/32v5PvjC)** 
 
 ---
 
